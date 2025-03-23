@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wrangler</title>
+    <link rel="icon" href="https://offroadadventurers.ca/wp-content/uploads/2024/09/cropped-Favicon3.webp">
+    <style>
+        body {
+            background-image: url("https://www.motortrend.com/files/6672136e4537450008be97e5/2025-jeep-wrangler-rubicon-392-final-edition-1.jpg");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: white;
+            text-align: center;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        
+        header {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 0.3em;
+        }
+
+        h1 {
+            color: #f5f5f5;
+            text-shadow: 3px 3px 5px #FF4500;
+            font-size: 3.5em;
+            margin-bottom: 0;
+        }
+        
+        .large-text {
+            font-size: 3.0em;
+            color: white;
+            margin: 5px;
+            font-weight: bold;
+        }
+
+        .medium-text {
+            font-size: 2.0em;
+            color: white;
+            margin: 5px;
+            font-weight: bold;
+        }
+
+        .small-text {
+            font-size: 0.3em;
+            color: white;
+            margin: 5px;
+            font-weight: bold;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 1.7em;
+            text-shadow: 1px 1px 5px #696969;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-size: 1.4em;
+            font-weight: bold;
+        }
+
+        main {
+            padding: 50px 20px;
+        }
+
+        footer {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+            font-weight: bold;
+        }
+
+        .no-change-link {
+            color: white;
+            text-decoration: none;
+        }
+
+        .no-change-link:visited {
+            color: white;
+        }
+
+        .no-change-link:hover {
+            color: white;
+        }
+    </style>
+</head>
+<body> 
+    <header>
+        <h1>Wrangler</h1>
+	    <p class="medium-text">Jeep의 근본 랭글러</p>
+    </header>
+
+    <main>
+        <section>
+            <h2 class="large-text">Wrangler를 소개합니다.</h2>
+            <p class="medium-text">군사용 차량에서 민간용으로 만들어진</p>
+            <p class="medium-text">Jeep의 가장 첫 모델 <a href="https://CJ.intjeep.kro.kr" class="no-change-link">CJ</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p><a href="https://int.intjeep.kro.kr" class="no-change-link">이전 페이지로 돌아가기</a></p>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wrangler_CJ</title>
+	<style>
+        body {
+            background-image: url("https://www.cnet.com/a/img/resize/fb715848a74134a468510f8ac86ee268beb86536/hub/2017/12/12/766bf579-cf0e-42ca-bb1e-cb808af8bc15/1987-jeep-wrangler-wrangler-laredo.jpg?auto=webp&width=1200");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: white;
+            text-align: center;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+	</style>
+</head>
+<body></body>
+</html>

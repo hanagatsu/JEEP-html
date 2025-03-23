@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeep</title>
+    <link rel="icon" href="https://offroadadventurers.ca/wp-content/uploads/2024/09/cropped-Favicon3.webp">
+    <style>
+        body {
+            background-image: url("https://www.jeep.co.kr/content/dam/cross-regional/apac/jeep/ko_kr/2019/wrangler/gallery/exterior/2019_Jeep-Wrangler-Gallery-Exterior-Sahara-Grey-Back.jpg.img.1440.jpg");
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            color: white;
+            text-align: center;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        
+        header {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 0.3em;
+        }
+
+        h1 {
+            color: #f5f5f5;
+            text-shadow: 3px 3px 5px #FF4500;
+            font-size: 3.5em;
+            margin-bottom: 0;
+        }
+
+        .small-text {
+            font-size: 0.5em;
+            color: white;
+            margin-top: 5px;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        nav ul li {
+            display: inline;
+            margin: 0 1.3ex;
+            text-shadow: 1px 1px 5px #696969;
+        }
+
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        main {
+            padding: 50px 20px;
+        }
+
+        footer {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+            font-weight: bold;
+        }
+
+        .no-change-link {
+            color: white;
+            text-decoration: none;
+        }
+
+        .no-change-link:visited {
+            color: white;
+        }
+
+        .no-change-link:hover {
+            color: white;
+        }
+    </style>
+</head>
+<body> 
+    <header>
+        <h1>Jeep</h1>
+	    <p class="small-text">해당 사이트는 JEEP 공식 사이트가 아닙니다.</p>
+        <nav>
+            <ul>
+                <li><a href="https://wrangler.intjeep.kro.kr">랭글러</a><li>
+                <li><a href="#">글래디에이터</a></li>
+                <li><a href="#">레니게이드</a></li>
+                <li><a href="#">컴패스</a></li>
+                <li><a href="#">그랜드 체로키</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>JEEP의 세계에 오신 것을 환영합니다</h2>
+            <p>JEEP는 오프로드와 온로드에서 뛰어난 성능을 자랑하는 차량입니다.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p><a href="https://www.jeep.co.kr/" class="no-change-link">Jeep 공식 웹사이트 바로가기</a></p>
+    </footer>
+</body>
+</html>
